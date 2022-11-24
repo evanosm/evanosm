@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanosm&label=Profile%20views&color=0e75b6&style=flat" alt="evanosm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_vavoune" target="blank"><img src="https://img.shields.io/twitter/follow/_vavoune?logo=twitter&style=for-the-badge" alt="_vavoune" /></a> </p>
+<p align="left"> <a href="https://twitter.com/evan_osmont" target="blank"><img src="https://img.shields.io/twitter/follow/evan_osmont?logo=twitter&style=for-the-badge" alt="evan_osmont" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
